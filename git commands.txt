@@ -1,0 +1,11 @@
+--first initialize the report for git
+
+git init
+
+--check status
+
+git status
+
+--add file to staging
+
+git add <file name>
