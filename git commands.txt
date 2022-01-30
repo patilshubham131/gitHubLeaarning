@@ -29,3 +29,11 @@ git checkout <branch name>
 -- to merge branch into current branch
 
 git merge <branch name>
+
+--to push the branch to remote. need to set origin and upstream
+
+git remote add origin https://github.com/patilshubham131/gitHubLeaarning.git
+git push --set-upstream origin master
+
+
+
