@@ -17,3 +17,11 @@ git rm  --cached <file name>
 --commiting staged files
 
 git commit  -m "message for commit"
+
+--To create new branch 
+
+git branch <branch name>
+
+--to checkout/switch from current to other branch
+
+git checkout <branch name>
