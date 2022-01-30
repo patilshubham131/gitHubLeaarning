@@ -9,3 +9,11 @@ git status
 --add file to staging
 
 git add <file name>
+
+-- remove file from staging area
+
+git rm  --cached <file name>
+
+--commiting staged files
+
+git commit  -m "message for commit"
