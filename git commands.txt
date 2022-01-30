@@ -25,3 +25,7 @@ git branch <branch name>
 --to checkout/switch from current to other branch
 
 git checkout <branch name>
+
+-- to merge branch into current branch
+
+git merge <branch name>
